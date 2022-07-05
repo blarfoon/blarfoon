@@ -1,4 +1,8 @@
 ### Hi there 👋
+First and foremost I love writing code and solving problems.
+Software engineering is a never-ending puzzle that I am passionately engaged in solving. I believe in the power of programming to transform and improve the lives of people around the world.
+
+I am a passionate javascript, typescript, rust and go developer with expertise in React and NextJS.
 
 <!--
 **killpowa/killpowa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

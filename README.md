@@ -1,9 +1,17 @@
 ### Hi there 👋
-First and foremost I love writing code and solving problems.
-Software engineering is a never-ending puzzle that I am passionately engaged in solving. I believe in the power of programming to transform and improve the lives of people around the world.
+I am a passionate software engineer/enterpreneur. I mostly work with javascript and rust.
 
-I am a passionate javascript, typescript, rust and go developer with expertise in React and NextJS.
+Founded GorillaDevs Inc. ([GDLauncher](https://gdlauncher.com)).
 
+[![Davide's stats](https://github-readme-stats.vercel.app/api?username=blarfoon&include_all_commits=true)](https://github-readme-stats.vercel.app/api?username=blarfoon&include_all_commits=true)
+
+[![Davide's languages](https://github-readme-stats.vercel.app/api/top-langs/?username=blarfoon&layout=donut)](https://github-readme-stats.vercel.app/api/top-langs/?username=blarfoon&layout=donut)
+
+#### My main open source projects
+
+[![GDLauncher](https://github-readme-stats.vercel.app/api/pin?username=gorilla-devs&repo=GDLauncher)](https://github-readme-stats.vercel.app/api/pin?username=gorilla-devs&repo=GDLauncher)
+
+[![GDLauncher-Carbon](https://github-readme-stats.vercel.app/api/pin?username=gorilla-devs&repo=GDLauncher-Carbon)](https://github-readme-stats.vercel.app/api/pin?username=gorilla-devs&repo=GDLauncher-Carbon)
 <!--
 **killpowa/killpowa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
